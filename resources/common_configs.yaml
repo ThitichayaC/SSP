@@ -1,0 +1,5 @@
+browser: chrome
+language: en
+WEB: SSP
+ENV: staging
+headless: false
